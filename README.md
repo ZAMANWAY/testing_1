@@ -92,12 +92,6 @@ The `screenshots/` folder contains both the original Figma reference screens and
 
 [Download APK](https://github.com/ZAMANWAY/testing_1/releases/download/v1.0.0/shariq_test.apk)
 
-Example format:
-
-```text
-https://github.com/username/project-name/releases/download/v1.0/app-release.apk
-```
-
 ---
 
 ## Getting Started
