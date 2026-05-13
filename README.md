@@ -53,32 +53,32 @@ The `screenshots/` folder contains both the original Figma reference screens and
 
 ### Figma Reference Screens
 
-| Screen | Figma Reference |
-| --- | --- |
-| Home | ![Figma Home](screenshots/figma-home.jpeg) |
-| Calendar | ![Figma Calendar](screenshots/figma-calendar.jpeg) |
-| Date Tap | ![Figma Date Tap](screenshots/figma-date-tap.jpeg) |
-| Training Calendar | ![Figma Plan](screenshots/figma-plan.jpeg) |
-| Mood | ![Figma Mood](screenshots/figma-mood.jpeg) |
+| Screen            | Figma Reference                                    |
+| ----------------- | -------------------------------------------------- |
+| Home              | ![Figma Home](screenshots/figma-home.jpeg)         |
+| Calendar          | ![Figma Calendar](screenshots/figma-calendar.jpeg) |
+| Date Tap          | ![Figma Date Tap](screenshots/figma-date-tap.jpeg) |
+| Training Calendar | ![Figma Plan](screenshots/figma-plan.jpeg)         |
+| Mood              | ![Figma Mood](screenshots/figma-mood.jpeg)         |
 
 ### App Screenshots
 
-| Screen | App Screenshot |
-| --- | --- |
-| Home | ![App Home](screenshots/home.png) |
-| Calendar | ![App Calendar](screenshots/calendar.png) |
-| Training Calendar | ![App Training Calendar](screenshots/plan.png) |
-| Mood - Content | ![App Mood Content](screenshots/mood-content.png) |
-| Mood - Peaceful | ![App Mood Peaceful](screenshots/mood-peaceful.png) |
+| Screen            | App Screenshot                                      |
+| ----------------- | --------------------------------------------------- |
+| Home              | ![App Home](screenshots/home.png)                   |
+| Calendar          | ![App Calendar](screenshots/calendar.png)           |
+| Training Calendar | ![App Training Calendar](screenshots/plan.png)      |
+| Mood - Content    | ![App Mood Content](screenshots/mood-content.png)   |
+| Mood - Peaceful   | ![App Mood Peaceful](screenshots/mood-peaceful.png) |
 
 ### UI Comparison
 
-| Figma | App |
-| --- | --- |
-| ![Figma Home](screenshots/figma-home.jpeg) | ![App Home](screenshots/home.png) |
-| ![Figma Calendar](screenshots/figma-calendar.jpeg) | ![App Calendar](screenshots/calendar.png) |
-| ![Figma Plan](screenshots/figma-plan.jpeg) | ![App Training Calendar](screenshots/plan.png) |
-| ![Figma Mood](screenshots/figma-mood.jpeg) | ![App Mood Content](screenshots/mood-content.png) |
+| Figma                                              | App                                               |
+| -------------------------------------------------- | ------------------------------------------------- |
+| ![Figma Home](screenshots/figma-home.jpeg)         | ![App Home](screenshots/home.png)                 |
+| ![Figma Calendar](screenshots/figma-calendar.jpeg) | ![App Calendar](screenshots/calendar.png)         |
+| ![Figma Plan](screenshots/figma-plan.jpeg)         | ![App Training Calendar](screenshots/plan.png)    |
+| ![Figma Mood](screenshots/figma-mood.jpeg)         | ![App Mood Content](screenshots/mood-content.png) |
 
 ---
 
@@ -90,7 +90,7 @@ The `screenshots/` folder contains both the original Figma reference screens and
 
 ## 5. App APK
 
-[Download APK](https://github.com/ZAMANWAY/shariq_test1/releases/download/v1.0.0/shariq_test.apk)
+[Download APK](https://github.com/ZAMANWAY/testing_1/releases/download/v1.0.0/shariq_test.apk)
 
 Example format:
 
