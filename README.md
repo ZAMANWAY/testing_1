@@ -1,6 +1,6 @@
 # Shariq Fitness App
 
-A Flutter fitness app built for the Evencir interview test task. The app includes a home dashboard, weekly training calendar, mood selector, and profile tab.
+A Flutter fitness app. The app includes a home dashboard, weekly training calendar, mood selector, and profile tab.
 
 ---
 
